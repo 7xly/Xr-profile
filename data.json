@@ -1,12 +1,12 @@
 {
   "profile": {
-    "name": "T U Z H I 🥀",
-    "username": "tuzhicodes",
-    "nickname": "TuZhi Codes",
-    "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHXDSo69quh8j6IsBuJ4zIW4yyQ3EFhlqVCkdTCA20DFp5rQuBbcY9EXBWD_1ATGvH0XDRiDU4DRXQy12P9EpexR2lEzXDF9RmzMnn1ti8ZNGIBJPIllIqY9vcv4u5WFYiK4dgWN7N9TyW7oy7KLaVT8LIkRfnLBr5IAfhnPiNop-rQLkz5gNHcKhyl-QO/s1024/file_00000000df18720881374740bf634620.png",
-    "banner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPe_P3kVBwu8Z5WdZxDRFgce6ylIBVIYRfcpuhGVrG9tShMJWerTMU8goc3OEtpA5Zs-P8Oh832Vb6en1BCM6rqMdT4jm9KtFZv3bgmOJYp6Knq6TQ_uV9pvDhA0XC2ponyB4rqztXOb2BEe41R3o77T8m5Lh6JS73H2_e5kOd7ND_SajWMswzwgmyqhtr/s736/229f824d9c404edc56b7fd1efe9a4df9_1.jpg",
+    "name": "Xr",
+    "username": "14fr",
+    "nickname": "Harshu",
+    "avatar": "https://cdn.discordapp.com/attachments/1396407546746769421/1496882198677291069/72c16dd6b22733c296db6fe24682952b2.jpg?ex=69eb7fae&is=69ea2e2e&hm=63dde5c0049e5829a2ae0faf7560f9ecfd4b10cb8bce27c6b6563f22d3584dfc&",
+    "banner": "https://cdn.discordapp.com/attachments/1396407546746769421/1496881869566902272/36cb2957359c3c325388a91df20146eb2.jpg?ex=69eb7f60&is=69ea2de0&hm=0a9e98c4ae8c69bc1897d8fc191973edf7865e2588f05d60723df03ff078013d&",
     "status": {
-      "text": "I Am TuZhi Codes ♥️",
+      "text": "I Am Xr",
       "type": "dnd"
     },
     "badges": [
@@ -16,7 +16,7 @@
         "color": "#9b59b6"
       },
       {
-        "name": "Winner Of TuZhi",
+        "name": "Winner Of Xr",
         "image": "https://cdn3.emoji.gg/emojis/575836-chalice.png",
         "color": "#9b59b6"
       },
@@ -42,42 +42,42 @@
       },
       {
         "name": "Server Boosting",
-        "image": "https://cdn.discordapp.com/badge-icons/bf01d1073931f921909045f3a39fd264.png",
+        "image": "https://pin.it/1DkNLhXLm",
         "color": "#3498db"
       }
     ],
     "buttons": [
       {
-        "name": "Discord Support",
-        "link": "https://discord.gg/gZKZQQdGMB",
+        "name": "my server",
+        "link": "https://discord.gg/ArERhXYBpX",
         "icon": "fab fa-discord",
         "gradient": ["#5865f2", "#4752c4"],
         "glow": "rgba(88,101,242,0.35)"
       },
       {
-        "name": "Discord Community",
-        "link": "https://discord.gg/ERJdY5HYgx",
+        "name": "community server",
+        "link": "https://discord.gg/lamhey",
         "icon": "fab fa-discord",
         "gradient": ["#5865f2", "#4752c4"],
         "glow": "rgba(88,101,242,0.35)"
       },
       {
         "name": "GitHub",
-        "link": "https://github.com/tuzhicodes",
+        "link": "https://github.com/7xly",
         "icon": "fab fa-github",
         "gradient": ["#5865f2", "#4752c4"],
         "glow": "rgba(88,101,242,0.35)"
       },
       {
-        "name": "YouTube",
-        "link": "https://youtube.com/@TuZhiCodes",
-        "icon": "fab fa-youtube",
+        "name": "Instagram",
+        "link": "https://www.instagram.com/h4rrsh_?igsh=ZWVzaWM5M2hiZWR6",
+        "icon": "fab fa-Instagram",
         "gradient": ["#ff0000", "#cc0000"],
         "glow": "rgba(255,0,0,0.35)"
       }
     ],
     
-    "about": "🐰 A Dreamer Who Never Sleeps !! 🐰\nDeveloper | Gamer | Content Creator",
+    "about": "Never depend on anyone, in the end everyone will leave you. !! 🐰\nDeveloper | Gamer | Content Creator",
     "decoration": { "file": "rainbow-ring" },
     "footer": "© 2025 Made with ❤️ TuZhi Codes"
   }
